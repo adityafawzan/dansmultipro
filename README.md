@@ -10,6 +10,8 @@
 ## Description
 
 <p>
+<ul>username : admin , password : 123456</ul>
+<ul>username : user , password : 123456</ul>
 <ul>file Database ada di folder /db_file</ul>
 <ul>set db url yg ada di .env, sesuaikan dengan environtment</ul>
 <ul>Dokumentasi API dapat dilihat di http://localhost:3000/api , menggunakan library Swagger</ul>
